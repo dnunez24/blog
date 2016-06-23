@@ -1,0 +1,29 @@
+{
+    "name": "dnunez24/blog",
+    "description": "Personal blog",
+    "type": "private",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Dave Nunez",
+            "email": "dnunez24@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "wpackagist-plugin/jetpack": "^4.0",
+        "wpackagist-plugin/timber-library": "^1.0",
+        "wpackagist-plugin/google-analytics-for-wordpress": "^5.5",
+        "wpackagist-plugin/wordpress-seo": "^3.3",
+        "wpackagist-plugin/akismet": "^3.1"
+    },
+    "require-dev": {
+        "wpackagist-plugin/wordpress-importer": "^0.6"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://wpackagist.org"
+        }
+    ]
+}
