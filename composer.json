@@ -11,11 +11,12 @@
     ],
     "minimum-stability": "stable",
     "require": {
+        "wpackagist-plugin/advanced-custom-fields": "^4.4",
+        "wpackagist-plugin/akismet": "^3.1",
+        "wpackagist-plugin/google-analytics-for-wordpress": "^5.5",
         "wpackagist-plugin/jetpack": "^4.0",
         "wpackagist-plugin/timber-library": "^1.0",
-        "wpackagist-plugin/google-analytics-for-wordpress": "^5.5",
-        "wpackagist-plugin/wordpress-seo": "^3.3",
-        "wpackagist-plugin/akismet": "^3.1"
+        "wpackagist-plugin/wordpress-seo": "^3.3"
     },
     "require-dev": {
         "wpackagist-plugin/wordpress-importer": "^0.6"
